@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../xc-service-manage-cms/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../xc-service-manage-cms/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../xc-service-manage-cms">
+      <sourceFolder url="file://$MODULE_DIR$/../xc-service-manage-cms/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../xc-service-manage-cms/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../xc-service-manage-cms/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../xc-service-manage-cms/target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: com.xuecheng:xc‐service‐api:1.0‐SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.xuecheng:xc‐framework‐model:1.0‐SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.xuecheng:xc‐framework‐utils:1.0‐SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.xuecheng:xc‐framework‐common:1.0‐SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring‐boot‐starter‐web:unknown" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring‐boot‐starter‐freemarker:unknown" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring‐boot‐starter‐data‐mongodb:unknown" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring‐boot‐starter‐amqp:unknown" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okhttp3:okhttp:3.9.1" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okio:okio:1.13.0" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring‐boot‐starter‐test:unknown" level="project" />
+  </component>
+</module>
